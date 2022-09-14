@@ -1,0 +1,6 @@
+customhost = "employeenew.ckhuyyix59pr.ap-south-1.rds.amazonaws.com"
+customuser = "sumedha"
+custompass = "sumedhacc"
+customdb = "employeenew"
+custombucket = "sumedhaempnew"
+customregion = "ap-south-1"
